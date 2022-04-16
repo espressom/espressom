@@ -72,170 +72,95 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
 
 <details align="center">
     <summary><h4>Show More</h4></summary>
+<div align="center"> <h4> ⚙DevOps</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 
-<details align="center">
-    <summary><h4>⚙DevOps</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"
-        />
-        <br />
-        <img
-            src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"
-        />
-    </div>
-</details>
+</div>
+<br>
+<div align="center"> <h4> 🛠IDE</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 
-<details align="center">
-    <summary><h4>🛠IDE</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"
-        />
-    </div>
-</details>
+  <br>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
-<details align="center">
-    <summary><h4>🙏Collaboration</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"
-        />
-    </div>
-</details>
 
-<details align="center">
-    <summary><h4>🎨Design</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"
-        />
-    </div>
-</details>
+</div>
+<br>
+<div align="center"> <h4> 🙏Collaboration</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+</div>
+<br>
+<div align="center"> <h4> 🎨Design</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+</div>
+<br>
+<div align="center"> <h4> 📊Data</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
+</div>
+<br>
+<div align="center"> <h4> 📳Network</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
+</div>
+<br>
+<div align="center"> <h4> ⚓OS</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
+</div>
+<br>
+<div align="center"> <h4> 🔒Database</h4> </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
+</div>
 
-<details align="center">
-    <summary><h4>📊Data</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"
-        />
-        <br />
-        <img
-            src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"
-        />
-    </div>
-</details>
-
-<details align="center">
-    <summary><h4>📳Network</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"
-        />
-    </div>
-</details>
-
-<details align="center">
-    <summary><h4>⚓OS</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"
-        />
-    </div>
-</details>
-
-<details align="center">
-    <summary><h4>🔒Database</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"
-        />
-    </div>
-</details>
-
-<details align="center">
-    <summary><h4>🔗Blockchain</h4></summary>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"
-        />
-        <img
-            src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
-        />
-    </div>
-</details>
+<br>
+<div align="center"> <h4> 🔗Blockchain</h4> </div>
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+</div>
 </details>
 
 
