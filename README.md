@@ -1,4 +1,4 @@
-<div align="center"><h3>Hi there 👋</h3></div>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20there!👋&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=true&theme=dracula)
