@@ -7,7 +7,7 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
 <br />
 <div align="center">
     <img
-        src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
+        src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"
     />
     <br />
     <img
@@ -29,20 +29,21 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
     <img
         src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"
     />
+        <img
+        src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
+    />
 </div>
 <br />
 
 <div align="center"><h4>💻Back-end</h4></div>
 <br />
 <div align="center">
-        <img
-        src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
-    />
+
     <img
         src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"
     />
     <img
-        src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
+        src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"
     />
   
   <br>
@@ -56,12 +57,13 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
         src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"
     />
   <br>
+            <img
+        src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
+    />
     <img
         src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"
     />
-    <img
-        src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
-    />
+
 </div>
 
 <details align="center">
@@ -101,14 +103,6 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </div>
 <br>
-<div align="center"> <h4> 🎨Design</h4> </div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
-</div>
 <br>
 <div align="center"> <h4> 📊Data</h4> </div>
 <br>
