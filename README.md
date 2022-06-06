@@ -1,33 +1,31 @@
+
+<div align="center">
+    
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Feev&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=true&theme=dracula)
-
+    
+</div>
 <div align="center"><h4>💎Front-end</h4></div>
 <br />
 <div align="center">
     <img
+        src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
+    />
+        <img
+        src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"
+    />
+        <img
         src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"
     />
     <br />
-    <img
-        src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
-    />
     <img
         src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"
     />
     <br />
     <img
-        src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"
-    />
-    <img
-        src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"
-    />
-    <img
         src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=React&logoColor=white"
-    />
-    <img
-        src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"
     />
         <img
         src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
@@ -38,15 +36,6 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
 <div align="center"><h4>💻Back-end</h4></div>
 <br />
 <div align="center">
-
-    <img
-        src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"
-    />
-    <img
-        src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"
-    />
-  
-  <br>
     <img
         src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"
     />
@@ -91,8 +80,6 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-
-
 </div>
 <br>
 <div align="center"> <h4> 🙏Collaboration</h4> </div>
@@ -147,7 +134,6 @@ stats](https://github-readme-stats.vercel.app/api?username=espressom&show_icons=
 <div align="center">
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </div>
 </details>
 
